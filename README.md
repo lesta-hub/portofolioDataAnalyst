@@ -1,0 +1,2 @@
+# portofolioDataAnalyst
+repository kelas BantuNgerti
